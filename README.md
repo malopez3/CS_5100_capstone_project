@@ -45,7 +45,7 @@ git clone https://github.com/malopez3/CS_5100_capstone_project
 
 2. Open either notebook in Jupyter or Google Colab
 
-3. Run all cells in order — no additional setup required
+3. Run all cells in order (no additional setup required)
 
 ## Results Summary
 
