@@ -1,8 +1,6 @@
 # CS5100 – Foundations of Artificial Intelligence
 ## FAI Capstone: Q-Learning and Variants
 
----
-
 ## Overview
 
 This project reproduces and empirically evaluates the convergence guarantee 
@@ -21,14 +19,10 @@ evaluated across two environments.
 - Custom 4×4 GridWorld (Ankita): designed to directly satisfy the theorem's conditions
 - Tic-Tac-Toe (Marco): agent learns by playing against a random opponent
 
----
-
 ## Reference Paper
 
 Watkins, C. J. C. H., & Dayan, P. (1992). Q-learning. 
 *Machine Learning, 8*(3–4), 279–292.
-
----
 
 ## Repository Structure
 ├── FAI_capstone_project.ipynb       
@@ -44,8 +38,6 @@ matplotlib
 Install dependencies:
 pip install numpy pandas matplotlib
 
----
-
 ## How to Run
 
 1. Clone the repository
@@ -54,8 +46,6 @@ git clone https://github.com/malopez3/CS_5100_capstone_project
 2. Open either notebook in Jupyter or Google Colab
 
 3. Run all cells in order — no additional setup required
-
----
 
 ## Results Summary
 
